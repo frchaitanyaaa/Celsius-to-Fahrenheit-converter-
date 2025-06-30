@@ -41,4 +41,4 @@ A lightweight and interactive **Temperature Converter Desktop Application** buil
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/CelsiusToFahrenheitConverter.git
+git clone https://github.com/frchaitanyaa/CelsiusToFahrenheitConverter.git
